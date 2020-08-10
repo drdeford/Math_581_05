@@ -1,4 +1,4 @@
-# Week 1 Introduction to NetworkX and Overview
+# Week 1: Introduction to NetworkX and Overview
 
 ## What is a network?
 
