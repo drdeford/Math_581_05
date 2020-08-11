@@ -21,7 +21,7 @@ This course will introduce tools and methodology for analyzing complex social sy
 <img src="https://github.com/vrdi/Networks-Breakout/blob/master/Day4/SIRplots/proportions3.png" width=300>
 
 </td></tr>
-
+</table>
 
 # Weekly Topics
 
@@ -40,3 +40,9 @@ This course will introduce tools and methodology for analyzing complex social sy
 13. Graph Partitioning
 14. Applied Examples (Gerrymandering)
 15. Applied Examples (Reform)
+
+<table>
+  <tr><td> ReCom Ensemble</td><td>Boundary Ensemble</td></tr>
+  <tr><td><img src="https://raw.githubusercontent.com/drdeford/GerryChain-Templates/master/Figures/recom.gif" width = 300/></td><td><img src="https://raw.githubusercontent.com/drdeford/GerryChain-Templates/master/Figures/smaller_boundary.gif" width = 300/></td></tr>
+  </table>
+
